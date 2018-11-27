@@ -26,5 +26,6 @@ module.exports =  {
   intersect: require("./lib/intersect"),
   render: require("./lib/render"),
   util: require("./lib/util"),
-  version: require("./lib/version")
+  version: require("./lib/version"),
+  d3ver3: require("./lib/d3")
 };
