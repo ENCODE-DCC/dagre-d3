@@ -27,7 +27,8 @@ module.exports =  {
   intersect: require("./lib/intersect"),
   render: require("./lib/render"),
   util: require("./lib/util"),
-  version: require("./lib/version")
+  version: require("./lib/version"),
+  d3ver3: require("./lib/d3")
 };
 
 },{"./lib/dagre":9,"./lib/graphlib":10,"./lib/intersect":11,"./lib/render":25,"./lib/util":27,"./lib/version":28}],2:[function(require,module,exports){
