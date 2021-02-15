@@ -1,7 +1,7 @@
 {
   "name": "dagre-d3",
-  "version": "0.4.3-pre",
-  "description": "A D3-based renderer for Dagre",
+  "version": "1.2.3",
+  "description": "A D3-based renderer for Dagre, specific to ENCODE",
   "author": "Chris Pettitt <chris@samsarin.com>",
   "keywords": [
     "graph",
@@ -12,7 +12,7 @@
   "dependencies": {
     "d3": "^3.3.8",
     "dagre": "^0.8.4",
-    "graphlib": "git+https://github.com/ENCODE-DCC/graphlib",
+    "graphlib": "git+https://github.com/ENCODE-DCC/graphlib#v1.0.8",
     "lodash": "^4.17.15"
   },
   "devDependencies": {
