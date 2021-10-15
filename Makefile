@@ -8,7 +8,7 @@ JSCS = ./node_modules/jscs/bin/jscs
 KARMA = ./node_modules/karma/bin/karma
 MOCHA = ./node_modules/mocha/bin/_mocha
 PHANTOMJS = ./node_modules/phantomjs/bin/phantomjs
-UGLIFY = ./node_modules/uglify-js/bin/uglifyjs
+UGLIFY = ./node_modules/terser/bin/terser
 
 JSHINT_OPTS = --reporter node_modules/jshint-stylish/stylish.js
 

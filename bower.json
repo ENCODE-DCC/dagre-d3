@@ -23,8 +23,9 @@
   ],
   "dependencies": {
     "d3": "^3.3.8",
-    "dagre": "^0.7.1",
-    "graphlib": "^1.0.1",
-    "lodash": "^4.17.15"
+    "dagre": "^0.8.4",
+    "graphlib": "git+https://github.com/ENCODE-DCC/graphlib",
+    "lodash": "^4.17.15",
+    "terser": "^5.9.0"
   }
 }
